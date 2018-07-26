@@ -28,10 +28,12 @@
     "name": "Matias Surdi",
     "email": "matias@surdi.net"
   },
-  "contributors": [{
-    "name": "Felix Furtmayr",
-    "email": "ff@rapidfacture.com"
-  }],
+  "contributors": [
+    {
+      "name": "Felix Furtmayr",
+      "email": "ff@rapidfacture.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/msurdi/frontend-dependencies/issues"

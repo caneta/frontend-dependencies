@@ -7,3 +7,5 @@
 /test/test2/static/build/**
 /test/test2/node_modules
 /test/test2/package-lock.json
+
+tags
